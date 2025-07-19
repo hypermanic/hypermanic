@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h3 align="center">A ML entusiest and a FullStack developer(PERN) from India</h3>
-![anime-typing](https://github.com/user-attachments/assets/4b912241-8011-4f64-8e4e-aa8044d2ac03)
-
+![Image](https://github.com/user-attachments/assets/90a56849-2d6f-4f4a-b048-2e19be148319)
 - 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **vaishnavtlv@gmail.com**
@@ -26,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypermanic&show_icons=true&locale=en" alt="hypermanic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hypermanic&" alt="hypermanic" /></p>
+
 
