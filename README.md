@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h3 align="center">A ML entusiest and a FullStack developer(PERN) from India</h3>
-![Image](https://github.com/user-attachments/assets/90a56849-2d6f-4f4a-b048-2e19be148319)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Demo GIF" width="500">
+
 - 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **vaishnavtlv@gmail.com**
