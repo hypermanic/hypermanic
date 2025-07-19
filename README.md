@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnav</h1>
 <h3 align="center">A ML entusiest and a FullStack developer(PERN) from India</h3>
-
+![Image](https://github.com/user-attachments/assets/8bafea08-7919-436b-8bfd-a334d92301fe)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypermanic&label=Profile%20views&color=0e75b6&style=flat" alt="hypermanic" /> </p>
 
 - 🌱 I’m currently learning **AI**
