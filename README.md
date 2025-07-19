@@ -1,6 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Vaishnav</h1>
+<h3 align="center">A ML entusiest and a FullStack developer(PERN) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypermanic&label=Profile%20views&color=0e75b6&style=flat" alt="hypermanic" /> </p>
+
+- 🌱 I’m currently learning **AI**
+
+- 📫 How to reach me **vaishnavtlv@gmail.com**
+
+- 📄 Know about my experiences [https://shorturl.at/AfI7w](https://shorturl.at/AfI7w)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
